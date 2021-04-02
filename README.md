@@ -5,4 +5,5 @@
 [instagram]: https://www.instagram.com/lorenzo.tinfena/
 
 ## Now Playing
+
 [![Spotify](https://spotify-now-playing-jtlkwba7f.vercel.app/api/spotify)](https://open.spotify.com/user/toscan99)
