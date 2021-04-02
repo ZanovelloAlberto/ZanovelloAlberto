@@ -6,4 +6,4 @@
 
 ## Now Playing
 
-[![Spotify](https://spotify-now-playing-jtlkwba7f.vercel.app/api/spotify)](https://open.spotify.com/user/toscan99)
+[![Spotify](https://spotify-now-playing-jtlkwba7f.vercel.app/api/spotify)](https://open.spotify.com/user/zanovello2002?si=BSaHx-mmTMGAZ2bO4bxK8A)
