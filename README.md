@@ -1,2 +1,2 @@
 #Alberto Zanovello
-<img src="pic/frog">
+<img src="pic/frog.jpg"></img>
