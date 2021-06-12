@@ -1,5 +1,4 @@
 
-* [Project](text/myProject.md)
 * [Istagram](https://www.instagram.com/albertozanovello_/)
 * alberto.zanovello.2002@gmail.com
 
