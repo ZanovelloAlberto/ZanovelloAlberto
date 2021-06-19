@@ -2,6 +2,6 @@
 * [Istagram](https://www.instagram.com/albertozanovello_/)
 * alberto.zanovello.2002@gmail.com
 
-Visualize photo of my presentation frog
+Visualize photo of my presentation frog <img src="https://komarev.com/ghpvc/?username=ZanovelloAlberto&label=Profile%20views&color=b60eb1&style=flat" alt="mcstecca" />
 <img src="pic/frog.jpg"></img>
 
