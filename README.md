@@ -6,3 +6,10 @@
 Visualize photo of my presentation frog 
 <img src="pic/frog.jpg"></img>
 
+
+Me getting on the beach
+<img src="pic/beach.png"></img>
+
+
+
+
