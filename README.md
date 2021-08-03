@@ -2,7 +2,7 @@
 * [Instagram](https://www.instagram.com/albertozanovello_/)
 * alberto.zanovello.2002@gmail.com
 
-Visualize photo of my presentation frog 
+photo visualization of a frog
 <img src="pic/frog.jpg"></img>
 
 
