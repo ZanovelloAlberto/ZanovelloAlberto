@@ -21,7 +21,7 @@ I was born in 2002, im interested in automation and workflow
 
 ## Experience
 
-### *Studio Cassolato Srls*
+### [*Studio Cassolato Srls*](https://www.studiocassolato.it/method)
 *September 2021 - February 2022 (5 months)* <br>
 I was involved in the development of web applications (management
 business / customer service). <br>
@@ -32,8 +32,8 @@ business / customer service). <br>
 - git
 - vscode
 
-### *Elca sc*
-*September 2021 - February 2022 (5 months)* <br>
+### [*Elca sc*](https://elca-sc.com/)
+*September 2022 - February 2023 (5 months)* <br>
 I was involved in the program development for a STM32G0 and MK22FN512LL12 mcu. <br>
 #### **acquired skills**
 - c
