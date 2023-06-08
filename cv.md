@@ -19,7 +19,7 @@ I was born in 2002, im interested in automation and workflow
     - c
     - verilog
 
-### Experience
+## Experience
 
 ### *Studio Cassolato Srls*
 *September 2021 - February 2022 (5 months)* <br>
@@ -40,7 +40,7 @@ I was involved in the program development for a STM32G0 and MK22FN512LL12 mcu. <
 - elm
 - flutter 
 
-### Education
+## Education
 *ITT Barsanti Castelfranco* <br>
 *High School Diploma, Information Technology · (2016 - 2021)* <br>
 #### **acquired skills**
@@ -51,6 +51,8 @@ I was involved in the program development for a STM32G0 and MK22FN512LL12 mcu. <
 - OS --> cisco IOS, windows, macOS
 
 
-## Reference 
+### Reference 
 https://github.com/ZanovelloAlberto <br>
+
+### Contacts
 zanovello2002@gmail.com
