@@ -1,7 +1,7 @@
 ## **Alberto Zanovello**
 *Loria, Veneto, Italy* <br>
 *Software Developer* <br>
-<img src="pic/sand.png" width="100px"></img>
+<img src="pic/sand.png" width="200px"></img>
 
 
 ## Summary
