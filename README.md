@@ -2,7 +2,6 @@
 * [Instagram](https://www.instagram.com/albertozanovello_/)
 * alberto.zanovello.2002@gmail.com
 
-frog
 <img src="pic/frog.jpg"></img>
 
 
