@@ -1,6 +1,8 @@
 ## **Alberto Zanovello**
 *Loria, Veneto, Italy* <br>
-*Software Developer*
+*Software Developer* <br>
+<img src="pic/sand.png" width="100px"></img>
+
 
 ## Summary
 I was born in 2002, im interested in automation and workflow
