@@ -1,3 +1,12 @@
-csharp: at school i had developd for 2 years with c# as my first language on visual studio
-java: some music player app at school and a [single palayer zombie game]()
-css,html,react,javascript: my profile 
+- csharp: 
+    - school i had developd for 2 years with c# as my first language on visual studio (2019~)
+    - worked for 5 months asp.net developer 
+- java: some music player app at school and a [single palayer zombie game](https://github.com/ZanovelloAlberto/ZombieLayer) (2020~)
+- css,html,react,javascript: [my profile](https://github.com/ZanovelloAlberto/site-www) (2021~)
+- lua: [my nvim configuration](https://github.com/ZanovelloAlberto/nvim-config) (2023~)
+- c: ive worked as embedded developer for 5 months, on 2 project, a wood heater and a washdish machine
+- typescript: 
+    - worked as front end developer react
+    - [game](https://github.com/ZanovelloAlberto/PixiRPG)
+
+- elm: 2 week edit of a site
