@@ -5,7 +5,7 @@
 
 
 ## Summary
-I was born in 2002, im interested in automation and workflow
+I was born in 2002, im interested in software and desktop workflow.
 
 ### Skill 2022
 - Lang --> Golang, Java, Typescript, Shell, Dart
